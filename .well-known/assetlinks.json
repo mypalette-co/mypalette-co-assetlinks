@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.palette.palette_for_makers",
+      "sha256_cert_fingerprints": [
+        "5D:DE:A0:E2:00:08:D7:7C:C5:66:9F:04:29:8E:84:70:1A:D4:96:E9:D9:CA:BF:77:E8:C0:EB:FE:54:01:4A:77"
+      ]
+    }
+  }
+]
